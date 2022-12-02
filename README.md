@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @lenglengOMG
+- I'm learning .NET.
